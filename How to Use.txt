@@ -5,4 +5,9 @@ Key to Use        Function
     a             Rotate left
     d             Rotate right
     c             clear the screen
-    
+    u             Penup
+    p             Pendown
+    h             Pen Size Increase
+    l             Pen Size Decrease
+
+Hope you enjoy the sketch board :-")
