@@ -1,0 +1,8 @@
+Key to Use        Function
+===========       =========
+    w             forward
+    s             backward
+    a             Rotate left
+    d             Rotate right
+    c             clear the screen
+    
